@@ -17,6 +17,12 @@
    - Implement ElasticSearch for log indexing and searching.
    - Use Graylog for log management and processing.
 
+## System Deployment
+
+This simulation system is designed and deployed using Docker containers to emulate a real-world environment, simulating the behavior of a Security Operations Center (SOC).
+
+- Docker containers are used to build isolated environments for all components: Nginx, Kafka, ElasticSearch and Graylog.
+
 ![ alt text](/overview1.png)
 
 ![ alt text](/overview2.png)
