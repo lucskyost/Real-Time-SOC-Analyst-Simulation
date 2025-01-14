@@ -1,4 +1,4 @@
-# TOPIC
+# RESEARCH TOPIC
 
 **Building a SOC Simulation System**
 
