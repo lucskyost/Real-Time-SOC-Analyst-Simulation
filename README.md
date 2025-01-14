@@ -23,9 +23,9 @@ This simulation system is designed and deployed using Docker containers to emula
 
 - Docker containers are used to build isolated environments for all components: Nginx, Kafka, ElasticSearch and Graylog.
 
-![ alt text](/overview1.png)
+![ alt text](/overview1.jpg)
 
-![ alt text](/overview2.png)
+![ alt text](/overview2.jpg)
 
-![ alt text](/overview3.png)
+![ alt text](/overview3.jpg)
 
